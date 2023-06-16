@@ -1,2 +1,9 @@
 
 /* Your CSS Code here. */
+.holder .item-1 {
+	display: flex;
+    justify-content: center;
+    flex-wrap: wrap;
+    max-width: 800px;
+    margin: 0 auto;
+}
