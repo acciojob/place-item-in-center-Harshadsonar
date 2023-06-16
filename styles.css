@@ -1,9 +1,8 @@
 
 /* Your CSS Code here. */
-.holder .item-1 {
-	display: flex;
-    justify-content: center;
-    flex-wrap: wrap;
-    max-width: 800px;
-    margin: 0 auto;
+.holder {
+	display:flex;
+	gap:10px;
+	align-items:center;
+	justify-content:center;
 }
